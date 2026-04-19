@@ -1,5 +1,5 @@
 # Hi, I'm Mary Ammar 👋
-**Data Scientist — ML · NLP · SQL · Paris, France 🇫🇷**
+**Junior Data Scientist — ML · NLP · SQL · Paris, France 🇫🇷**
 
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-Data%20Scientist-2ea44f?style=flat)
 
