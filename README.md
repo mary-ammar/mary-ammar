@@ -1,35 +1,29 @@
 # Hi, I'm Mary Ammar 👋
-**Junior Data Scientist — ML · NLP · SQL · Paris, France 🇫🇷**
 
-![Open to work](https://img.shields.io/badge/Open%20to%20work-Data%20Scientist-2ea44f?style=flat)
+**Data Scientist — ML · NLP · Statistical Modeling · Paris, France 🇫🇷**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![SHAP](https://img.shields.io/badge/SHAP-interpretability-blueviolet?style=flat)
-
----
-
-## 🔍 I'm actively looking for a Data Scientist position in Paris
-
-Feel free to reach out — I'm available immediately.
-📧 ammarmary02@gmail.com · 💼 [linkedin.com/in/mary-ammar](https://linkedin.com/in/mary-ammar)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://www.r-project.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-006400?style=flat)](https://xgboost.readthedocs.io/)
+[![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/transformers/)
+[![SHAP](https://img.shields.io/badge/SHAP-interpretability-blueviolet?style=flat)](https://shap.readthedocs.io/)
 
 ---
 
 ## About me
 
-I'm a freshly graduated Data Scientist with a Master's in Statistics from the University of Strasbourg. I've worked on real-world health data (108,697 observations), building full ML pipelines — from SQL extraction and data cleaning to modelling (GLM, GBM, XGBoost) and deploying a live RShiny dashboard used weekly by medical teams.
+Data Scientist with a Master's in Statistics from the University of Strasbourg. I build end-to-end ML pipelines — from raw data extraction and SQL querying to modelling, evaluation, and production deployment — with a focus on model interpretability and communicating results clearly to non-technical stakeholders.
 
-I care about model interpretability and communicating results clearly to non-technical stakeholders.
+I've worked on real-world health data (108,697 observations), building full pipelines from SQL extraction through GLM/GBM/XGBoost modelling to a live RShiny dashboard used weekly by medical teams.
+
+📧 ammarmary02@gmail.com · 💼 [linkedin.com/in/mary-ammar](https://linkedin.com/in/mary-ammar)
 
 ---
 
-## 📁 Featured project
+## 📁 Featured projects
 
 ### [Credit Risk Assessment — German Credit Dataset](https://github.com/mary-ammar/credit-risk-modeling)
 
@@ -38,6 +32,21 @@ End-to-end ML pipeline on 1,000 observations: data cleaning, encoding, feature e
 > Best model selected by AUC + F1-score
 
 `Python · XGBoost · Scikit-learn · SHAP · Pandas · Matplotlib`
+
+---
+
+### [French Sentiment Analysis — CamemBERT Fine-tuning](https://github.com/mary-ammar/french-sentiment-camembert)
+
+Fine-tuned `camembert-base` on 160k French movie reviews (Allociné dataset). Built a full ML pipeline with a TF-IDF baseline for comparison, Streamlit dashboard, Docker deployment, CI/CD via GitHub Actions, and a test suite.
+
+| Model | Test Accuracy | Test F1 |
+|---|---|---|
+| TF-IDF + Logistic Regression | 94.06% | 94.06% |
+| CamemBERT fine-tuned | **97.18%** | **97.18%** |
+
+> CamemBERT outperforms the TF-IDF baseline by **+3.12% F1**
+
+`Python · HuggingFace Transformers · CamemBERT · Streamlit · Docker · GitHub Actions`
 
 ---
 
@@ -52,10 +61,11 @@ End-to-end ML pipeline on 1,000 observations: data cleaning, encoding, feature e
 ## 📊 Key numbers
 
 | Metric | Value |
-|--------|-------|
+|---|---|
 | Real health records processed | 108,697 |
 | Epidemiology model AUC | 0.70 |
-
+| CamemBERT sentiment F1 | 97.18% |
+| Baseline improvement (NLP) | +3.12% |
 
 ---
 
@@ -63,4 +73,8 @@ End-to-end ML pipeline on 1,000 observations: data cleaning, encoding, feature e
 
 - **M.Sc. Statistics** — University of Strasbourg (2023–2025)
 - **B.Sc. Applied Mathematics** — University of Strasbourg (2020–2023)
+
+---
+
+![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary-ammar&show_icons=true&hide_border=true&count_private=true)
 
