@@ -74,7 +74,5 @@ Fine-tuned `camembert-base` on 160k French movie reviews (Allociné dataset). Bu
 - **M.Sc. Statistics** — University of Strasbourg (2023–2025)
 - **B.Sc. Applied Mathematics** — University of Strasbourg (2020–2023)
 
----
 
-![Mary's GitHub stats](https://github-readme-stats.vercel.app/api?username=mary-ammar&show_icons=true&hide_border=true&count_private=true)
 
